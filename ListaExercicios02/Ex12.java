@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* 12. Crie uma função recursiva que encontre o menor elemento de um array de inteiros.*/
 
 public class Ex12 {
@@ -22,3 +23,11 @@ public class Ex12 {
 
     }
 }
+=======
+public class Ex12 {
+    public static void main(String[] args) {
+        // Código do exercício
+        System.out.println("Exercício 12");
+    }
+}
+>>>>>>> ea52e1f148d61551f05f6f15a718ec827cc7d973

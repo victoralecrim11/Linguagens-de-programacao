@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // 9. Escreva uma função recursiva que implemente a busca binária em um vetor ordenado.
 
 import java.util.Locale;
@@ -26,3 +27,11 @@ public class Ex09 {
         return buscaBinariaRecursiva(array, elemento, meio + 1, fim); // Busca na direita
     }
 }
+=======
+public class Ex09 {
+    public static void main(String[] args) {
+        // Código do exercício
+        System.out.println("Exercício 9");
+    }
+}
+>>>>>>> ea52e1f148d61551f05f6f15a718ec827cc7d973

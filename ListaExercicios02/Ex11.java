@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // 11. Escreva uma função recursiva que conte quantas vezes um determinado número aparece em um array.
 
 import java.util.Locale;
@@ -34,3 +35,11 @@ public class Ex11 {
 
     }
 }
+=======
+public class Ex11 {
+    public static void main(String[] args) {
+        // Código do exercício
+        System.out.println("Exercício 11");
+    }
+}
+>>>>>>> ea52e1f148d61551f05f6f15a718ec827cc7d973
